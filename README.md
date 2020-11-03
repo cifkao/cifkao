@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![TonnetzViz](https://user-images.githubusercontent.com/8046580/98005569-79a34880-1df1-11eb-9d9d-30a9d500f71d.png)![HTML MIDI Player](https://user-images.githubusercontent.com/8046580/98005375-419c0580-1df1-11eb-9b3e-739a8cc487d4.png)![Confugue](https://user-images.githubusercontent.com/8046580/98006910-11edfd00-1df3-11eb-9075-ec5794d76461.png)
+[![TonnetzViz](https://user-images.githubusercontent.com/8046580/98005569-79a34880-1df1-11eb-9d9d-30a9d500f71d.png)](https://github.com/cifkao/tonnetz-viz)[![HTML MIDI Player](https://user-images.githubusercontent.com/8046580/98005375-419c0580-1df1-11eb-9b3e-739a8cc487d4.png)](https://github.com/cifkao/html-midi-player)[![Confugue](https://user-images.githubusercontent.com/8046580/98006910-11edfd00-1df3-11eb-9075-ec5794d76461.png)](https://github.com/cifkao/confugue)
 
 <!--
 **cifkao/cifkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
