@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Contact me
 
-Let's do it the GitHub way! You can contact me by [creating an issue](https://github.com/cifkao/cifkao/issues/new).
+Find me on [Twitter](https://twitter.com/cifkao) or contact me the [GitHub way](https://github.com/cifkao/cifkao/issues/new)!
