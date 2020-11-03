@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I'm Ondřej!
+
+### My projects
 
 [![TonnetzViz](img/tonnetz-viz.png)](https://github.com/cifkao/tonnetz-viz)[![HTML MIDI Player](img/html-midi-player.png)](https://github.com/cifkao/html-midi-player)[![Confugue](img/confugue.png)](https://github.com/cifkao/confugue)
 
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Ondrej's github stats](https://github-readme-stats.vercel.app/api?username=cifkao&show_icons=true)
+
+-->
