@@ -2,7 +2,7 @@
 
 ### My projects
 
-[![TonnetzViz](img/tonnetz-viz.png)](https://github.com/cifkao/tonnetz-viz)[![HTML MIDI Player](img/html-midi-player.png)](https://github.com/cifkao/html-midi-player)[![Confugue](img/confugue.png)](https://github.com/cifkao/confugue)
+[![Confugue](img/confugue.png)](https://github.com/cifkao/confugue)[![HTML MIDI Player](img/html-midi-player.png)](https://github.com/cifkao/html-midi-player)[![TonnetzViz](img/tonnetz-viz.png)](https://github.com/cifkao/tonnetz-viz)
 
 <!--
 **cifkao/cifkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
