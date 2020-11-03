@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![Ondrej's github stats](https://github-readme-stats.vercel.app/api?username=cifkao&show_icons=true)
 
 -->
+
+### Contact me
+
+Let's do it the GitHub way! You can contact me by [creating an issue](https://github.com/cifkao/cifkao/issues/new).
