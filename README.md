@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Contact me
 
-Find me on [Twitter](https://twitter.com/cifkao) or contact me the [GitHub way](https://github.com/cifkao/cifkao/issues/new)!
+Find me on [Twitter](https://twitter.com/cifkao) or contact me the [GitHub way](https://github.com/cifkao/cifkao/discussions)!
