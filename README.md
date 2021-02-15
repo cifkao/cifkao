@@ -2,8 +2,7 @@
 
 ### My projects
 
-[![Groove2Groove](img/groove2groove.png)](https://github.com/cifkao/groove2groove) [![HTML MIDI Player](img/html-midi-player.png)](https://github.com/cifkao/html-midi-player)  
-[![TonnetzViz](img/tonnetz-viz.png)](https://github.com/cifkao/tonnetz-viz) [![Confugue](img/confugue.png)](https://github.com/cifkao/confugue)
+[![Groove2Groove](img/groove2groove.png)](https://github.com/cifkao/groove2groove) [![HTML MIDI Player](img/html-midi-player.png)](https://github.com/cifkao/html-midi-player) [![Self-supervised VQ-VAE](img/ss-vq-vae.png)](https://github.com/cifkao/ss-vq-vae) [![TonnetzViz](img/tonnetz-viz.png)](https://github.com/cifkao/tonnetz-viz) [![Confugue](img/confugue.png)](https://github.com/cifkao/confugue)
 
 <!--
 **cifkao/cifkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
