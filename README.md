@@ -7,6 +7,7 @@
 ### Also my projects
 
 - [jax-spectral](https://github.com/cifkao/jax-spectral) – short-time Fourier transform (STFT) for JAX
+- [gps2var](https://github.com/cifkao/gps2var) – reading geospatial variables by GPS coordinates
 - [chrome-mute-notifications](https://github.com/cifkao/chrome-mute-notifications) – a button for Chrome to disable all desktop notifications
 - [fclip](https://github.com/cifkao/fclip) – a command-line file system clipboard
 - [pybiab](https://github.com/cifkao/pybiab) – some Band-in-a-Box automation scripts
