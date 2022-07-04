@@ -11,6 +11,7 @@
 - [chrome-mute-notifications](https://github.com/cifkao/chrome-mute-notifications) – a button for Chrome to disable all desktop notifications
 - [fclip](https://github.com/cifkao/fclip) – a command-line file system clipboard
 - [pybiab](https://github.com/cifkao/pybiab) – some Band-in-a-Box automation scripts
+- [import-as.github.io](https://import-as.github.io/) – list of Python import shorthands
 
 ### Contact me
 
