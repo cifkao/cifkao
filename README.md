@@ -15,4 +15,4 @@
 
 ### Contact me
 
-Find me on [Twitter](https://twitter.com/cifkao), use [this contact form](https://forms.gle/GcEFJNo1bbKu8HmE6) or contact me the [GitHub way](https://github.com/cifkao/cifkao/discussions)!
+Find me on [Mastodon](https://sigmoid.social/@cifkao), [Twitter](https://twitter.com/cifkao), use [this contact form](https://ondrej.cifka.com/contact/) or contact me the [GitHub way](https://github.com/cifkao/cifkao/discussions)!
