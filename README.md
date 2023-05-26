@@ -6,6 +6,7 @@
 
 ### Also my projects
 
+- [context-probing](https://github.com/cifkao/context-probing) – black-box language model explanation technique
 - [jax-spectral](https://github.com/cifkao/jax-spectral) – short-time Fourier transform (STFT) for JAX
 - [gps2var](https://github.com/cifkao/gps2var) – reading geospatial variables by GPS coordinates
 - [chrome-mute-notifications](https://github.com/cifkao/chrome-mute-notifications) – a button for Chrome to disable all desktop notifications
